@@ -1,14 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70bbd3da-97c1-4d14-bed8-6863461370bb" name="Default Changelist" comment="" />
+    <list default="true" id="70bbd3da-97c1-4d14-bed8-6863461370bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Block Adventure/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Background.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/+50Points.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/+50Points.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Bonus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Bonus.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Mint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Mint.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Orange.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Pink.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Purple.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Bonuses/Yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/License.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/Back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/SettingsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/SettingsIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/Title2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/Title2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MainMenu/slice6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/RequestNewShapesButton.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/RequestNewShapesButton/RequestNewShapes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/RequestNewShapesButton/RequestNewShapes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/RequestNewShapesButton/WatchAdsToContinue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/RequestNewShapesButton/WatchAdsToContinue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ScoreBar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ScoreBar/Back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ScoreBar/Back.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ScoreBar/Front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ScoreBar/Front.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/SoundFXBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/SoundFXBtn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/SoundButton/slice3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/BackGrid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/BackGrid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Green.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/HighlightGrid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/HighlightGrid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/NavyBlue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/NavyBlue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Ornage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Ornage.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Pink.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Red.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Violet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Violet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Squares/Yellow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/TopGameBar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/TopGameBar.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/GameOver.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/GameOver.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/NewBestScore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/NewBestScore.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/PopupBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/PopupBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/Try Again.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/Try Again.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/WinLosePopup/close.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Awsome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Awsome.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Cool.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Cool.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Excellent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Excellent.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Good One.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Good One.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Good.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Good.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Nice One.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Nice One.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Smashing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Smashing.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Superb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Superb.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Sweet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Sweet.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Well Played.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/Well Played.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/You Rock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Writings/You Rock.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/character .png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/character .png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/scoreBox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/scoreBox.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Shape/ShapeData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Shape/ShapeData.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ShapeDataDrawer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCore/Grid/GridSquare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Shape/ShapeData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameCore/Grid/GridController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -17,10 +152,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/Grid/GridSquare.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/Grid/Grid.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameCore/Grid/GridController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shape/ShapeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/ShapeDataDrawer.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="22m3aDm3wVtxyw9D4wlLVDzj1Vh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +167,7 @@
   <component name="PropertiesComponent">
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -71,6 +210,7 @@
       <workItem from="1640588015675" duration="2414000" />
       <workItem from="1640590765869" duration="517000" />
       <workItem from="1640626562514" duration="899000" />
+      <workItem from="1641743299546" duration="3892000" />
     </task>
     <servers />
   </component>
@@ -79,6 +219,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state width="940" height="248" key="GridCell.Tab.0.bottom" timestamp="1640436276359">
       <screen x="0" y="0" width="1920" height="1040" />
