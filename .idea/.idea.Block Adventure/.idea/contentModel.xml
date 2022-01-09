@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityProjects\BlockAdventure\Block Adventure" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="GameResources" t="Include">
+          <e p="License.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="GameCore" t="Include">
+            <e p="Grid" t="Include">
+              <e p="GridController.cs" t="Include" />
+              <e p="GridSquare.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Block Adventure.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Albert\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Albert\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Block Adventure.1862930891.00" t="ExcludeRecursive" />
+  </component>
+</project>
