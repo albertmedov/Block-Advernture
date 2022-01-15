@@ -6,13 +6,13 @@ using UnityEngine;
 public class Shape : MonoBehaviour
 {
     public GameObject SquareShapeImage;
+    [HideInInspector]
     public ShapeData CurrentShapeData;
     
     private List<GameObject> _currentShape = new List<GameObject>();
 
     private void Start()
     {
-        RequestNewShape(CurrentShapeData);
     }
     private void RequestNewShape(ShapeData shapeData)
     {
