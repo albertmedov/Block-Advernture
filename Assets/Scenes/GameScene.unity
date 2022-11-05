@@ -878,6 +878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b534bae5b28115e489b45cd64d843198, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shapeStorage: {fileID: 1514614740}
   columns: 9
   rows: 9
   squaresGap: 3
