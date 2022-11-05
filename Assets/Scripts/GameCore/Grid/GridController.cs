@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,6 +15,30 @@ public class GridController : MonoBehaviour
     
     private Vector2 _offset = new Vector2(0.0f,0.0f);
     private List<GameObject> _gridSquares = new List<GameObject>();
+
+    private void OnEnable()
+    {
+        GameEvents.checkIfShapeCanBePlaced += checkIfShapeCanBePlaced;
+    }
+
+    private void checkIfShapeCanBePlaced()
+    {
+        foreach (var square in _gridSquares)
+        {
+            var gridSquare = square.GetComponent<GridSquare>();
+            if (gridSquare.CamWeUseThisSquare())
+            {
+                gridSquare.ActivateSquare();
+            }
+        }
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.checkIfShapeCanBePlaced -= checkIfShapeCanBePlaced;
+    }
+    
+
     void Start()
     {
         createGrid();
