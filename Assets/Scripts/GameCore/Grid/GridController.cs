@@ -180,6 +180,17 @@ public class GridController : MonoBehaviour
             
             lines.Add(data.ToArray());
         }
+        
+        //squares
+        for (int square = 0; square < 9; square++)
+        {
+            List<int> data = new List<int>(9);
+            for (int index = 0; index < 9; index++)
+            {
+                data.Add(_lineIndicator.square_data[square, index]);
+            }
+            lines.Add(data.ToArray());
+        }
 
         var completedLines = CheckIfSquaresAreCompleted(lines);
 
@@ -187,8 +198,9 @@ public class GridController : MonoBehaviour
         {
             //TODO: play bonus animation 
         }
-        
-        //TODO: Add Scores
+
+        var totalScores = 10 * completedLines;
+        GameEvents.AddScores(totalScores);
     }
 
     private int CheckIfSquaresAreCompleted(List<int[]> data)
