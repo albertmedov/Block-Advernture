@@ -12,7 +12,7 @@ public static class BinaryDataStream
 
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream fileStream = new FileStream(path + fileName + ".dat", FileMode.Create);
-        
+
         try
         {
             formatter.Serialize(fileStream, serializedObject);
